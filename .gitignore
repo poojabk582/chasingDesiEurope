@@ -1,0 +1,27 @@
+# Dependencies
+node_modules/
+
+# Build artifacts
+*.zip
+*.log
+
+# Environment and config files with secrets
+kilo.jsonc
+mcp_tools.txt
+mcp_tools_full.json
+.env
+.env.*
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Scripts (keep in repo if needed, but these look like local tooling)
+*.ps1
+
+# Nested git repository (separate project)
+chasemate-board/

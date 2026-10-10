@@ -1,0 +1,66 @@
+ChaseMate — FAQ
+
+About Us
+We are ChaseMate. We help Indians living in Germany who get stuck on housing, jobs and paperwork — and watch the answers disappear into group chat. You already pay agents, tax filers and relocation people for this chasing. We do it for one clear monthly fee: an intake form that sorts every case, a board showing what is stuck and the fee at stake, and a weekly note every Monday on public rule and housing changes. You start with the cases your own group already sends you, then hand the form to them.
+
+1. What exactly do I get for the $1,000 setup + $400 a month?
+The setup builds your private intake form, your case board, and connects your first 10 cases. The monthly fee covers unlimited new cases, weekly Monday updates on housing and rule changes, and us chasing every open item until it closes.
+
+2. Who is this for?
+Indians in Germany — students, skilled workers, families — who have a flat search, driving licence form, tax deadline, job loss notice, or any follow-up that keeps slipping.
+
+3. What kinds of cases do you chase?
+Flat searches (warm leads, viewing follow-ups, deposit handover), driving licence conversions, tax filings and Finanzamt letters, job offer paperwork and contract checks, Anmeldung, visa extensions, insurance switches — anything with a deadline and a counter-party who stops replying.
+
+4. Do you replace my agent, Steuerberater or relocation consultant?
+No. We chase them. We make sure they reply, we track what they promised, and we tell you the next step. You keep your existing providers.
+
+5. How does the intake form work?
+You send a short link. The person fills in name, country, what they are stuck on (flat search, job application, form to send, letter to answer), the date they need it by, and optional notes. We validate everything on the spot — empty fields or past dates get rejected with exact fix instructions.
+
+6. What happens after someone submits the form?
+If complete: the case lands on your board with track, next step, chase date (7 days before the deadline, never earlier than today), and a status of Accepted. If incomplete: the person sees a friendly page listing exactly what to fix, and we log the attempt so nothing falls through.
+
+7. What is the board?
+A private Kanban view (To chase, Waiting on reply, At risk, Done) showing every case, the fee at stake, the chase date, and the next action. You and your clients can open it anytime.
+
+8. What is the weekly Monday note?
+Every Monday you get a one-page digest: new housing rules, rental cap changes, visa processing times, tax deadlines, job market shifts — only what affects your clients, written in plain English.
+
+9. How fast do you start chasing?
+Setup takes 3 business days after payment. First chase goes out within 24 hours of a case landing on the board. You get a confirmation email the same day.
+
+10. How do I get started?
+Reply to this email or WhatsApp us. We send a short onboarding form, you pay the $1,000 setup, and we go live in 3 business days.
+
+11. What payment methods do you accept?
+Bank transfer (SEPA), Wise, or card via Stripe. Invoice raised on sign-up, due before we start.
+
+12. Is there a contract or minimum term?
+Month-to-month. Cancel anytime with 5 days' notice before the next billing date. No refunds for partial months.
+
+13. What if I need more than the monthly fee covers?
+The $400/month is all-in for unlimited cases and the weekly note. No hidden caps. If you need custom integrations (e.g., your CRM, Slack, Notion), we quote separately.
+
+14. Can I add team members to the board?
+Yes. Up to 3 logins included. Extra seats are €15/month each.
+
+15. What if a case goes cold?
+We escalate: second chase at 48 hours, third at 5 days with a "final notice" tone, then we flag it red on the board and tell you the fee at risk. You decide the next move.
+
+16. Do you handle sensitive documents?
+We never ask for passwords. Clients upload PDFs to a secure, expiring link (7-day TTL, GDPR-compliant). We only see what they choose to share.
+
+17. What timezone do you operate in?
+CET/CEST (Germany time). Chases go out 09:00–18:00 on business days. Monday note lands by 09:00 CET.
+
+18. What if I'm not in Germany but my clients are?
+You can be anywhere. The service is built for the German system. We only chase German authorities, landlords, employers and agents.
+
+19. Can I try it first?
+We don't do free trials — the setup is the work. But we'll run one test case of yours at no charge during onboarding so you see the flow end-to-end.
+
+20. How do I contact you?
+Email: hello@chasemate.de
+WhatsApp/Phone: +49 151 2345 6789 (Mon–Fri, 09:00–18:00 CET)
+Address: ChaseMate UG, Musterstraße 12, 10115 Berlin, Germany

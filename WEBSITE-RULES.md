@@ -1,0 +1,1 @@
+# Website rules for your agent (FWAI, version 6 Oct 2026)
